@@ -12,9 +12,9 @@
 ## ブラウザ(chrome)からmicro:bit+maqueenを操作
 
 - [maqueen](https://github.com/marron9999/maqueen/) : Web Bluetooth（HTML+JavaScript)部分
-- [maqueen-hex](https://github.com/marron9999/maqueen-hex/) : micro:bitに入れるプログラム
+- [maqueen_hex](https://github.com/marron9999/maqueen_hex/) : micro:bitに入れるプログラム
 
 ## micro:bitからmicro:bit+maqueenを操作
 
-- [maqueen-p2p](https://github.com/marron9999/maqueen-p2p/) : micro:bitに入れるプログラム
+- [maqueen_p2p](https://github.com/marron9999/maqueen_p2p/) : micro:bitに入れるプログラム
 
