@@ -12,7 +12,16 @@
 ## ブラウザ(chrome)からmicro:bit+maqueenを操作
 
 - [maqueen](https://github.com/marron9999/maqueen/) : Web Bluetooth（HTML+JavaScript)部分
-- [maqueen_hex](https://github.com/marron9999/maqueen_hex/) : micro:bitに入れるプログラム
+
+## micro:bit+maqueenをリモート操作
+
+- [mbitlink_hex](https://github.com/marron9999/mbitlink_hex/) : micro:bitに入れるプログラム
+
+- micro:bit v2向け makecode拡張機能
+
+	- [lib-mbitlink](https://github.com/marron9999/lib-mbitlink/) : micro:bit通信処理
+	- [lib-mbituart](https://github.com/marron9999/lib-mbituart/) : micro:bitセンサー処理
+	- [lib-maqueen](https://github.com/marron9999/lib-maqueen/) : maqueen処理
 
 ## micro:bitからmicro:bit+maqueenを操作
 
