@@ -9,6 +9,8 @@
 - [sc3-mbituart](https://github.com/marron9999/sc3-mbituart/) : micro:bit向けGUI (ブロック等)
 - [sc3-maqueen](https://github.com/marron9999/sc3-maqueen/) : maqueen向けGUI (ブロック等)
 
+![](images/play.png)
+
 ## ブラウザ(chrome)からmicro:bit+maqueenを操作
 
 - [maqueen](https://github.com/marron9999/maqueen/) : Web Bluetooth（HTML+JavaScript)部分
