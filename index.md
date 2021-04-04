@@ -2,8 +2,6 @@
 
 ## Scratch3からmicro:bit+maqueenを操作
 
-<video src="https://marron9999.github.io/scratch-maqueen.mp4" style="width:640px;height:360px;"></video>
-
 ![](images/mbituart.png)
 
 - [sc3](https://github.com/marron9999/sc3/) : Scratch3本体(vm、gui)の変更箇所
