@@ -2,7 +2,7 @@
 
 ## Scratch3からmicro:bit+maqueenを操作
 
-![](scratch-maqueen.mp4)
+<video src="https://marron9999.github.io/scratch-maqueen.mp4" style="width:640px;height:360px;"></video>
 
 ![](images/mbituart.png)
 
