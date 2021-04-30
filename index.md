@@ -7,3 +7,7 @@
 ## [Scratch3からWebsocketサーバーとテキスト会話](index_homeroom.md)
 
 ![](images/homeroom.png)
+
+## My Scratch ： いろいろカスタマイズしてみました
+
+![](images/my-scratch.png)
